@@ -24,6 +24,7 @@ console.log("Done created blog4 file");
 // })
 
 //piping
+//Ad piping data directly from readstream to writestream
 readStream.pipe(writeStream);
 
 
